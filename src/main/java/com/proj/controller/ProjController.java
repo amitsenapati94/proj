@@ -1,4 +1,4 @@
-package com.proj.app;
+package com.proj.controller;
 
 
 import com.proj.model.CustomerResponse;
